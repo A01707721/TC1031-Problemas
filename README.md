@@ -1,4 +1,6 @@
 # TC1031-Problemas
+Leetcode https://leetcode.com/submissions/#/1
+Codeforces https://codeforces.com/submissions/a01707721
 ## Sort
 Problema 1730A de Codeforces: <br>
 Encontrar la forma mas economica de destruir todos los planetas de un sistema solar. <br>
